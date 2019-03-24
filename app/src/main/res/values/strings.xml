@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="lbl_balance">Balance</string>
+    <string name="title_activity_transfer">TransferActivity</string>
+    <string name="lbl_amount_check"></string>
+
+    <string-array name="Friends">
+        <item>Alice</item>
+        <item>Bob</item>
+        <item>Charlie</item>
+        <item>Dawn</item>
+        <item>Elvis</item>
+        <item>Frode</item>
+    </string-array>
+</resources>
